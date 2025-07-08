@@ -1,4 +1,3 @@
-# README.md
 
 ```markdown
 # ☕ Java COMPLETO: Do Zero ao Profissional + Projetos
